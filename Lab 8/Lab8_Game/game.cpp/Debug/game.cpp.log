@@ -1,0 +1,5 @@
+﻿  game.cpp
+C:\Users\sraab\OneDrive\Desktop\Lab8_Game\game.cpp\game.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  maze.cpp
+  Generating Code...
+  game.cpp.vcxproj -> C:\Users\sraab\OneDrive\Desktop\Lab8_Game\Debug\game.cpp.exe

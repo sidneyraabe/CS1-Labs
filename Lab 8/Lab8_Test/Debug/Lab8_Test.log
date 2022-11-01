@@ -1,0 +1,5 @@
+﻿  maze.cpp
+  testMaze.cpp
+C:\Users\sraab\OneDrive\Desktop\Lab 8\Lab8_Test\testMaze.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab8_Test.vcxproj -> C:\Users\sraab\OneDrive\Desktop\Lab 8\Lab8_Test\Debug\Lab8_Test.exe
