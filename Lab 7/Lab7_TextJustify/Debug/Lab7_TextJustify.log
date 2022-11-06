@@ -1,3 +1,3 @@
 ﻿  Lab7_TextJustify.cpp
-C:\Users\student\source\repos\Lab7_TextJustify\Lab7_TextJustify.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lab7_TextJustify.vcxproj -> C:\Users\student\source\repos\Lab7_TextJustify\Debug\Lab7_TextJustify.exe
+C:\Users\sraab\Documents\CS1-Labs\Lab 7\Lab7_TextJustify\Lab7_TextJustify.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_TextJustify.vcxproj -> C:\Users\sraab\Documents\CS1-Labs\Lab 7\Lab7_TextJustify\Debug\Lab7_TextJustify.exe

@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\sraab\Documents\CS1-Labs\Lab 9\Lab9_Game\Game.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9_Game.vcxproj -> C:\Users\sraab\Documents\CS1-Labs\Lab 9\Lab9_Game\Debug\Lab9_Game.exe
